@@ -11,6 +11,7 @@ Do you want to know what libraries or frameworks support IE?
 | [Ember.js](http://emberjs.com/) | 2 | [IE 9+](https://saucelabs.com/u/ember-ci) |
 | [jQuery](http://jquery.com/) | 3 | [IE 9+](http://jquery.com/browser-support/) |
 | [lodash](https://lodash.com/) | 4 | IE 9+ |
+| [React](https://facebook.github.io/react/blog/2016/03/29/react-v0.14.8.html) | 0.14 | [IE 8+](https://facebook.github.io/react/blog/2016/01/12/discontinuing-ie8-support.html) |
 | [React](https://facebook.github.io/react/) | 15 | [IE 9+](https://facebook.github.io/react/docs/working-with-the-browser.html#browser-support) |
 | [Vue.js](https://vuejs.org/) | 0.10 | [IE 9+](https://github.com/vuejs/vue/tree/0.10) |
 | [whatwg-fetch](https://github.github.io/fetch/) | 1 | [IE 10+](https://github.com/github/fetch) |
