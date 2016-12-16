@@ -6,6 +6,7 @@ Do you want to know what libraries or frameworks support IE?
 |:---:|:---:|:---:|:---:|
 | [AngularJS](https://angularjs.org/) | 1.3 | [IE 9+](https://docs.angularjs.org/guide/ie) | |
 | [AngularJS](https://angular.io/) | 2 | [IE 9+](https://angular.io/docs/ts/latest/guide/browser-support.html) | |
+| [axios](https://github.com/mzabriskie/axios) | 0.15 | [IE 9+](https://saucelabs.com/u/axios) | |
 | [Bootstrap](http://getbootstrap.com/) | 3 | [IE 8+](http://getbootstrap.com/getting-started/#support) | |
 | Bootstrap | 4 | [IE 9+](http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/) | |
 | [Cycle.js](http://cycle.js.org/) (dom) | 12.2.2 | [IE 10+](https://github.com/cyclejs/cyclejs/tree/master/dom#browser-support) | |
@@ -14,7 +15,7 @@ Do you want to know what libraries or frameworks support IE?
 | [Handlebars.js](http://handlebarsjs.com/) | 4 | [IE 6+](https://github.com/wycats/handlebars.js/#supported-environments) | |
 | [Inferno](http://infernojs.org/)  | 0.7 | [IE 11+](https://github.com/trueadm/inferno#browser-support) | IE 8~10 with polyfill |
 | [jQuery](http://jquery.com/) | 3 | [IE 9+](http://jquery.com/browser-support/) | |
-| [lodash](https://lodash.com/) | 4 | IE 9+ | |
+| [lodash](https://lodash.com/) | 4 | IE 11+ | |
 | [Meteor](https://www.meteor.com/) | 1.4 | [IE 8+](http://www.meteorpedia.com/read/Supported_Browsers) | |
 | [Polymer](https://www.polymer-project.org/1.0/) | 1 | [IE 11+](https://www.polymer-project.org/1.0/docs/browsers) | |
 | [Preact](https://preactjs.com/) | 7 | [IE 9+](https://preactjs.com/about/browser-support) | IE 7~8 with polyfill |
