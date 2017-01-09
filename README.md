@@ -7,6 +7,7 @@ Do you want to know what libraries or frameworks support IE?
 | [AngularJS](https://angularjs.org/) | 1.3 | [IE 9+](https://docs.angularjs.org/guide/ie) | |
 | [AngularJS](https://angular.io/) | 2 | [IE 9+](https://angular.io/docs/ts/latest/guide/browser-support.html) | |
 | [axios](https://github.com/mzabriskie/axios) | 0.15 | [IE 9+](https://saucelabs.com/u/axios) | |
+| [Backbone.js](http://backbonejs.org/) | 1 | [IE 6+](https://github.com/jashkenas/backbone/issues/3138) | |
 | [Bootstrap](http://getbootstrap.com/) | 3 | [IE 8+](http://getbootstrap.com/getting-started/#support) | |
 | Bootstrap | 4 | [IE 10+](https://github.com/twbs/bootstrap/pull/21389) | |
 | [Cycle.js](http://cycle.js.org/) (dom) | 12.2.2 | [IE 10+](https://github.com/cyclejs/cyclejs/tree/master/dom#browser-support) | |
